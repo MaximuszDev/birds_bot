@@ -5,7 +5,7 @@ from telebot import types
 
 
 
-TOKEN = '6570715645:AAEuolZUT27VHELYQAYExXpZA0pVXiwOcnY'
+TOKEN = '#'
 
 conn = sqlite3.connect("birds.db")
 cursor = conn.cursor()
